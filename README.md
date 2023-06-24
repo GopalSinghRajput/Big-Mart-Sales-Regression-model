@@ -7,4 +7,4 @@ Then I explored the distribution components of numeric columns, and contribution
 
 Hence the EDA is completed, so I encoded the data using OneHot encoding and Label Encoding for Categoircal and numeric columns respectievly
 
-Towards the Model development, I have used Linear Regression, Lasso Model, Decision Tree, Random Forest, Extra Trees, Ridge and Gradient Boosting Regressor.
+Towards the Model development, I have used Linear Regression, Lasso Model, Decision Tree, Random Forest, Extra Trees, Ridge and Gradient Boosting Regressor. From the results Linear regression has lowest CV score, so the efficiency for linear regression is high. Hence Linear Regression is suited for the above dataset
